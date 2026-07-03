@@ -12,3 +12,17 @@ color: blue;
 max-width: 800px;
 margin: 0 auto;
 }
+
+
+
+
+
+
+
+img{ 
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  border: 4x solid #090435;
+
+}
